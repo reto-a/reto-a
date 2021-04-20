@@ -1,8 +1,5 @@
 ### ¡Hola, amigo o amiga! 👋
 
-<!--
-**reto-a/reto-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 A continuación un poco de mi:
 
 - 🔭 Actualmente estoy trabajanndo con: Angular y Laravel
