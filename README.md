@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Ricardo 😊</h1>
-<h3 align="center">Un programador web apasionado por lo que hace</h3>
+<h3 align="center">Un programador web apasionado por lo nuevo</h3>
 
-- 🔭 Estoy trabajando actualmente en: **Proyectos internos en la empresa en que laboro con Angular**
+- 🔭 Estoy trabajando actualmente en: **Proyectos con Angular.**
 
-- 🌱 Estoy actualmente aprendiendo: **Spring boot, Docker**
+- 🌱 Estoy actualmente aprendiendo: **React, tailwindcss.**
 
-- 👯 Estoy buscando colaborar en: **Equipos, proyectos y nuevos puestos de trabajo que me resulten interesantes**
+- 👯 Estoy buscando colaborar en: **Por lo pronto solo estoy enfocado en estudiar.**
 
 - 📫 ¿Cómo me contactas?: **ricardog.a@outlook.es**
 
